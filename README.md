@@ -145,14 +145,12 @@ Through this project, I strengthened my skills in:
 
 ## Repository Structure
 
-Customer_Complaint-Trend-Analysis/
-│
-├── ConsumerComplaints_DataDictionary.csv
-├── Consumer_Complaints.xlsx
-├── Consumer_Complaints_PANDAS.ipynb
-├── Customer_Complaints_Report.pdf
+Customer_Complaint-Trend-Analysis/<br>
+├── ConsumerComplaints_DataDictionary.csv<br>
+├── Consumer_Complaints.xlsx<br>
+├── Consumer_Complaints_PANDAS.ipynb<br>
+├── Customer_Complaints_Report.pdf<br>
 └── README.md
-
 
 ## Author
 **Viranchi More**
